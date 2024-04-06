@@ -3,4 +3,4 @@
 Some description about my code 
 
 
-deleted a sentence - then added this one 
+Can I make this change on Git hub? 
